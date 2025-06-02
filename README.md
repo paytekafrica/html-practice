@@ -2,7 +2,7 @@
 
 A simple repository for demo tasks to **sharp your html skills** 😉.
 
-### **Link para o acesso** da tarefa: [HTML Challenge](https://www.figma.com/design/COgQR0DqFdbMBZ9WsISwKS/Figma-Tutorial-For-Beginners?node-id=267-1465&t=hKziWO4R4UTslURV-1)
+### **Link para o acesso** da tarefa: [HTML Challenge](https://www.figma.com/design/COgQR0DqFdbMBZ9WsISwKS/Figma-Tutorial-For-Beginners?node-id=0-1&t=HCT56pUe3spadVtS-1)
 O design encontra-se no figma, no link acima.
 
 <br>
@@ -105,6 +105,6 @@ Agora envia um Pull Request.
 
 Assim a Pull Request está a espera de ser revista para que as tuas mudanças sejam integradas no Branch principal `main` deste projecto. Vais receber um e-mail de notificação quando as alterações forem integradas.
 
-## **Link para o acesso** da tarefa: [Link](https://www.figma.com/design/COgQR0DqFdbMBZ9WsISwKS/Figma-Tutorial-For-Beginners?node-id=267-1465&t=hKziWO4R4UTslURV-1)
+## **Link para o acesso** da tarefa: [Link](https://www.figma.com/design/COgQR0DqFdbMBZ9WsISwKS/Figma-Tutorial-For-Beginners?node-id=0-1&t=HCT56pUe3spadVtS-1)
 
-O design encontra-se no figma, neste link: [HTML Challenge](https://www.figma.com/design/COgQR0DqFdbMBZ9WsISwKS/Figma-Tutorial-For-Beginners?node-id=267-1465&t=hKziWO4R4UTslURV-1)
+O design encontra-se no figma, neste link: [HTML Challenge](https://www.figma.com/design/COgQR0DqFdbMBZ9WsISwKS/Figma-Tutorial-For-Beginners?node-id=0-1&t=HCT56pUe3spadVtS-1)
